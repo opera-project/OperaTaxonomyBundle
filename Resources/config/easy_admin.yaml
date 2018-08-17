@@ -1,0 +1,7 @@
+easy_admin:
+    entities:
+        Tag:
+            class: Opera\TaxonomyBundle\Entity\Tag
+            form:
+                fields:
+                    - label
